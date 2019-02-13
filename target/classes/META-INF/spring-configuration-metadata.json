@@ -1,0 +1,10 @@
+{
+  "groups": [{
+    "name": "datasource.druid",
+    "type": "javax.sql.DataSource",
+    "sourceType": "com.im.lottery.config.DruidConfiguation",
+    "sourceMethod": "dataSource()"
+  }],
+  "properties": [],
+  "hints": []
+}
